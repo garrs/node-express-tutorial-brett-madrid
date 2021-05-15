@@ -1,0 +1,24 @@
+{
+  "name": "node-express-tutorial-brett-madrid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garrs/node-express-tutorial-brett-madrid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garrs/node-express-tutorial-brett-madrid/issues"
+  },
+  "homepage": "https://github.com/garrs/node-express-tutorial-brett-madrid#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "shortid": "^2.2.16"
+  }
+}
